@@ -12,10 +12,10 @@ namespace Es3
 
             int contatore = 0;
             bool a = false; 
-            e = false; 
-            i = false; 
-            o = false; 
-            u = false;
+            bool e = false; 
+            bool i = false; 
+            bool o = false; 
+            bool u = false;
 
             for (int j = 0; j < parola.Length; j++)
             {
