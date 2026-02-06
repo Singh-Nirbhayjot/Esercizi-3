@@ -11,7 +11,11 @@ namespace Es3
             string parola = ReadLine().ToLower();
 
             int contatore = 0;
-            bool a = false, e = false, i = false, o = false, u = false;
+            bool a = false; 
+            e = false; 
+            i = false; 
+            o = false; 
+            u = false;
 
             for (int j = 0; j < parola.Length; j++)
             {
